@@ -1,0 +1,3 @@
+export const START_SPEECH = 'START_SPEECH';
+export const SPEECH_RECOGNITION = 'SPEECH_RECOGNITION';
+export const STOP_SPEECH = 'STOP_SPEECH';
